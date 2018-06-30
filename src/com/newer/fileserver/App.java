@@ -8,4 +8,8 @@ package com.newer.fileserver;
  */
 public class App {
 
+	public static void main(String[] args) {
+		
+	}
+	
 }
